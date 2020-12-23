@@ -1,7 +1,7 @@
 # Monte-Carlo-simulation-for-hash-collision
 Monte carlo simulation for NAEs hash collision
 
-This repository contains the code and the files obtained for the Monte Carlo simulation on the probability of two source and destination network address elements (NAE) to have a simultaneous collision on both their source and destination parts. 
+This repository contains the code and the files obtained for the Monte Carlo simulation on the probability that two source and destination network address elements (NAE) have a simultaneous collision on both their source and destination parts. 
 
 This simulation is part of the work done in the following work: “Network intrusion detection with a novel hierarchy of distances between embeddings of hash IP addresses”, Manuel Lopez-Martin, Belen Carro, Juan Ignacio Arribas, Antonio Sanchez-Esguevillas.
 
