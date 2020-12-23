@@ -5,7 +5,7 @@ This simulation is part of the work done in the following work: “Network intru
 
 The simulation scope extends to the following scenarios:
 1.	Simulate the simultaneous collision using the IP, Port and IP&Port NAEs with the total number of NAEs present in the CICIDS2017 dataset: 8330, 62434 and 218406 different values for the (source and destination) IP, Port and IP&Port NAEs, respectively. The simulation is done with a maximum hash value of 3000.
-2.	Simulate the simultaneous collision using only the IP and Port NAEs with the total number of NAEs present in the CICIDS2017 dataset: 8330, 62434 different values for the (source and destination) IP, Port and IP&Port NAEs, respectively. The simulation is done with a maximum hash value of 3000.
+2.	Simulate the simultaneous collision using only the IP and Port NAEs with the total number of NAEs present in the CICIDS2017 dataset: 8330, 62434 different values for the (source and destination) IP and Port NAEs, respectively. The simulation is done with a maximum hash value of 3000.
 3.	Simulate the simultaneous collision using the IP, Port and IP&Port NAEs with a reduced number of NAEs and maximum hash value. The number of NAEs and maximum hash value has been scaled down with a factor of 100.
 
 The code for the first scenario is in the file: Calc probability collision.R
