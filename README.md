@@ -20,4 +20,3 @@ Along with the R code files, there is an attached html file to make the files ea
 
 The code is prepared to be executed in the cloud using Google Colaboratory https://colab.research.google.com/notebooks/intro.ipynb
 
-We have also included the simulation outputs for the first scenario
