@@ -16,7 +16,5 @@ The code for the third scenario is in the file: Calc probability collision scale
 
 The simulation has been done in R 
 
-Along with the R code files, there is an attached html file to make the files easier to read.
-
 The code is prepared to be executed in the cloud using Google Colaboratory https://colab.research.google.com/notebooks/intro.ipynb
 
