@@ -18,7 +18,9 @@ The code for the third scenario is in the file: "Calc probability collision scal
 
 The simulation has been done in R 
 
-The simulations demonstrate that the probability of collision (for a single NAE) depends on the maximum hash value (k) following the expression (1/k)^2 . Considering the three NAEs simulatenously the probability is (1/k)^6. In all simulations with a k=3000, not a single simultaneous collision has appeared for the three NAEs with a number of samples in the simulation of 1e+7.
+The simulations demonstrate that the probability of collision (for a single NAE) depends on the maximum hash value (k) following the expression (1/k)^2 . Considering the three NAEs simulatenously the probability is (1/k)^6. In scenario 1 and 2 with a k=3000 the collision probability obtained for a single NAE is , and in scenario 3 with a k=30 he collision probability obtained for a single NAE is 
+
+In all simulations with a k=3000, not a single simultaneous collision has appeared for the three NAEs with a number of samples in the simulation of 1e+7.
 
 The code is prepared to be executed in the cloud using Google Colaboratory https://colab.research.google.com/notebooks/intro.ipynb
 
