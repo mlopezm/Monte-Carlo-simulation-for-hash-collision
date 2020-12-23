@@ -18,5 +18,7 @@ The code for the third scenario is in the file: Calc probability collision scale
 
 The simulation has been done in R 
 
+The simulations demonstrate that the probability of collision (for a single NAE) depends on the maximum hash value (k) following the expression (1/k)**2 
+
 The code is prepared to be executed in the cloud using Google Colaboratory https://colab.research.google.com/notebooks/intro.ipynb
 
